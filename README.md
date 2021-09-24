@@ -12,6 +12,7 @@ This is a deployment section
 
 ##Testing
 This is regarding testing and unit testing.
+Fix stashing example
 
 ## Purpose
 Sample website with plenty of files for demos
