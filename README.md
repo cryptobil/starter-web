@@ -1,7 +1,9 @@
 # Starter Web Repo
-
+Changing first Heading
 This repository is for showing how Git and GitHub work
 
+##Introduction
+Adding introduction
 ##Deployment
 This is a deployment section
 
