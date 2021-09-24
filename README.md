@@ -5,7 +5,7 @@ Adding line for rebasing example
 more changes form myfeature branch
 
 ##Introduction
-Adding introduction
+Adding introduction stash example
 
 ##Deployment
 This is a deployment section
